@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd = ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd
+
