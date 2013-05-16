@@ -33,15 +33,14 @@ Usage
 -------------------------------------------------------------------------------
 !!!It does not delete the stock templates!!!
 
+Remove the stock /Network/etherCscmacd, /Network/etherCscmacd_64 and /Devices/etherCscmacd templates before you begin.
+
 
 Installing
 -------------------------------------------------------------------------------
 
 Install the ZenPack via the command line and restart Zenoss::
-
-    It's reccomended to zenbackup --no-perfdata --no-eventdb and to remove the 
-    stock /Network/etherCscmacd, /Network/etherCscmacd_64 and /Devices/etherCscmacd tempaltes before you begin.
-    
+  
     zenpack --link --install ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd-<version>.egg
     zenoss restart
 
@@ -53,5 +52,5 @@ To remove the ZenPack, use the following command::
 
     zenpack --remove ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd
     zenoss restart
-    
-    You'll need to restore the default templates.
+
+You'll need to restore the default templates.
