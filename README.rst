@@ -2,6 +2,7 @@
 ZenPacks.SteelHouseLabs.EnhancedEthernetCsmacd
 ===============================================================================
 
+
 About
 -------------------------------------------------------------------------------
 This ZenPack dramatically improves the /Network/etherCscmacd, 
@@ -11,9 +12,10 @@ This ZenPack dramatically improves the /Network/etherCscmacd,
 Features
 -------------------------------------------------------------------------------
 This ZenPack dramatically improves the /Network/etherCscmacd, 
-/Network/etherCscmacd_64 and /Devices/etherCscmacd tempaltes.
+/Network/etherCscmacd_64 and /Devices/etherCscmacd templates.
 
-!!!It does not delete the stock templates!!!
+It does not delete the stock templates
+
 
 Prerequisites
 -------------------------------------------------------------------------------
