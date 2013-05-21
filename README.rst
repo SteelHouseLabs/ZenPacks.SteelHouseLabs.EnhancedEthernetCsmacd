@@ -23,7 +23,7 @@ Prerequisites
 ==================  =========================================================
 Prerequisite        Restriction
 ==================  =========================================================
-Product             Zenoss 4.1.1 or higher
+Product             Zenoss 2.5 or higher
 Required ZenPacks   None
 Other dependencies  None
 ==================  =========================================================
